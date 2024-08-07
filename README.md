@@ -17,17 +17,14 @@ Make sure to add a 4.7k ohm resistor between VCC and OneWire Connection to the D
 
 ![image](https://github.com/user-attachments/assets/f8ad2150-0c79-449b-992c-1d508d654830)
 
-### Non-Commercial Use
+## License
 
-You are free to use, modify, and distribute this project for non-commercial purposes as long as you provide appropriate credit and link to the original repository.
+This project includes both software and hardware components and is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/) with additional terms.
 
-### Commercial Use
+- **Non-Commercial Use**: You may use, modify, and distribute this project for non-commercial purposes.
+- **Commercial Use**: To use this project for commercial purposes, please contact the author at [your-email@example.com] to obtain permission and discuss licensing terms.
 
-If you wish to use this project for commercial purposes, including but not limited to incorporation into products or services for sale, you must contact the author at arshiakeshvariasl@gmail.com to obtain permission and discuss licensing terms.
-
-### Disclaimer
-
-This project is provided "as-is" without warranty of any kind. The author is not liable for any damages arising from the use of this project.
+See the [LICENSE](./LICENSE) file for full licensing details.
 
 ### Additional Notes
 Should you want to use/modify/edit/reference it for commercial, corporate and company needs you must gain full permission of usage and discuss licensing from myself. Otherwise, Feel free to play around with the code to make it custom to your own requirements. 

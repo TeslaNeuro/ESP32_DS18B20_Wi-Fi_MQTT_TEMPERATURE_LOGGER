@@ -12,6 +12,6 @@
 Make sure to add a 4.7k ohm resistor between VCC and OneWire Connection to the DS18B20 Sensors !
 - 3.3V == VCC
 - GND  == GND
-- (DQ) OneWire == Pin 25 (Pin Set by Default on ESP32)
+- (DQ) OneWire or Data == Pin 25 (Pin Set by Default on ESP32)
 
 ![image](https://github.com/user-attachments/assets/f8ad2150-0c79-449b-992c-1d508d654830)

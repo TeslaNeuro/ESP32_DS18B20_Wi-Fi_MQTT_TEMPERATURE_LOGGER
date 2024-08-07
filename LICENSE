@@ -1,21 +1,35 @@
-## License
+## Custom License Agreement
 
-This project includes both software and hardware components and is licensed under the following terms:
+This project includes software, hardware, and system integration and is licensed under the following terms:
 
-### Software License
+### License Overview
 
-This software is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/) with additional terms.
+- **Non-Commercial Use**: You are free to use, modify, and distribute the software, hardware designs, and integration components for non-commercial purposes, provided that you comply with the conditions outlined below.
+- **Commercial Use**: If you wish to use, modify, or distribute the software, hardware designs, or integration components for commercial purposes, including but not limited to incorporating them into products or services for sale, you must obtain explicit permission from the author.
 
-- **Non-Commercial Use**: You may use, modify, and distribute this software for non-commercial purposes.
-- **Commercial Use**: To use this software for commercial purposes, including incorporation into products or services for sale, you must contact the author at [arshiakeshvariasl@gmail.com] to obtain permission and discuss licensing terms.
+### Terms for Non-Commercial Use
 
-### Hardware License
+1. **Attribution**: You must provide appropriate credit, including a link to the original repository and a notice indicating any changes made.
+2. **Non-Commercial Use**: The use, modification, and distribution of this project are permitted only for non-commercial purposes. Commercial use requires obtaining a separate license.
 
-This hardware design is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/) with additional terms.
+### Terms for Commercial Use
 
-- **Non-Commercial Use**: You may use, modify, and distribute this hardware design for non-commercial purposes.
-- **Commercial Use**: To use this hardware design for commercial purposes, including manufacturing and selling products based on this design, you must contact the author at [arshiakeshvariasl@gmail.com] to obtain permission and discuss licensing terms.
+1. **Contact Requirement**: To use the software, hardware designs, or integration components for commercial purposes, you must contact the author at [arshiakeshvariasl@gmail.com] to obtain permission and discuss licensing terms.
+2. **Additional Licensing**: Commercial use will be subject to additional terms agreed upon between you and the author. This may include financial arrangements or other conditions.
+
+### Integration with Other Projects
+
+1. **Commercial Integration**: If you wish to integrate the software, hardware designs, or other components with other commercial projects or products, you must contact the author for permission and to discuss any additional licensing terms.
+2. **Non-Commercial Integration**: Integration with non-commercial projects is permitted under the same terms as outlined for non-commercial use.
 
 ### Disclaimer
 
-This project is provided "as-is" without warranty of any kind. The author is not liable for any damages arising from the use of this project.
+This project is provided "as-is" without warranty of any kind. The author is not liable for any damages arising from the use of this project, whether commercial or non-commercial. By using this project, you acknowledge that you assume all risks associated with its use.
+
+### How to Contact
+
+For commercial use inquiries or any other questions regarding this license, please contact the author at [arshiakeshvariasl@gmail.com].
+
+---
+
+By using this project, you agree to abide by the terms set forth in this license.

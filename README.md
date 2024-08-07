@@ -14,4 +14,4 @@ Make sure to add a 4.7k ohm resistor between VCC and OneWire Connection to the D
 - GND  == GND
 - (DQ) OneWire == Pin 25 (Pin Set by Default on ESP32)
 
-![image](https://github.com/h2gopower/ESP32_DS18B20_Wi-Fi_TEMPERATURE_LOGGER/assets/148064420/af864353-b65a-4b73-bd78-266d5d82ef9d)
+![image](https://github.com/user-attachments/assets/f8ad2150-0c79-449b-992c-1d508d654830)

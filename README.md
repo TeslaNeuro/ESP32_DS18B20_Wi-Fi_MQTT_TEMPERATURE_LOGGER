@@ -9,7 +9,7 @@
 - Hardware Required: ESP32, 2.4-Ghz WiFi Network, 4.7k ohm resistor, DS18B20 Temperature Sensors, Micro-USB Power & Cable.
 - Can be easily integrated to a "NODE-RED" dashboard.
 
-# ESP32 Pins Used For Connecting DS18B20 Sensors
+## ESP32 Pins Used For Connecting DS18B20 Sensors
 Make sure to add a 4.7k ohm resistor between VCC and OneWire Connection to the DS18B20 Sensors !
 - 3.3V == VCC
 - GND  == GND

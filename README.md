@@ -16,3 +16,15 @@ Make sure to add a 4.7k ohm resistor between VCC and OneWire Connection to the D
 - (DQ) OneWire or Data == Pin 25 (Pin Set by Default on ESP32)
 
 ![image](https://github.com/user-attachments/assets/f8ad2150-0c79-449b-992c-1d508d654830)
+
+### Non-Commercial Use
+
+You are free to use, modify, and distribute this project for non-commercial purposes as long as you provide appropriate credit and link to the original repository.
+
+### Commercial Use
+
+If you wish to use this project for commercial purposes, including but not limited to incorporation into products or services for sale, you must contact the author at arshiakeshvariasl@gmail.com to obtain permission and discuss licensing terms.
+
+### Disclaimer
+
+This project is provided "as-is" without warranty of any kind. The author is not liable for any damages arising from the use of this project.

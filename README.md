@@ -28,3 +28,8 @@ If you wish to use this project for commercial purposes, including but not limit
 ### Disclaimer
 
 This project is provided "as-is" without warranty of any kind. The author is not liable for any damages arising from the use of this project.
+
+### Additional Notes
+Should you want to use/modify/edit/reference it for commercial, corporate and company needs you must gain full permission of usage and discuss licensing from myself. Otherwise, Feel free to play around with the code to make it custom to your own requirements. 
+  
+You are welcome to contact me should you have any general and technical questions.

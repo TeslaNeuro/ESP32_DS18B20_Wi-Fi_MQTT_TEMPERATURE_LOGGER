@@ -22,7 +22,7 @@ Make sure to add a 4.7k ohm resistor between VCC and OneWire Connection to the D
 This project includes both software and hardware components and is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/) with additional terms.
 
 - **Non-Commercial Use**: You may use, modify, and distribute this project for non-commercial purposes.
-- **Commercial Use**: To use this project for commercial purposes, please contact the author at [your-email@example.com] to obtain permission and discuss licensing terms.
+- **Commercial Use**: To use this project for commercial purposes, please contact the author at [arshiakeshvariasl@gmail.com] to obtain permission and discuss licensing terms.
 
 See the [LICENSE](./LICENSE) file for full licensing details.
 

@@ -26,7 +26,7 @@ This project includes firmware, software, hardware designs, and integration comp
 
 See the [LICENSE](./LICENSE) file for full licensing details.
 
-### Additional Notes
+## Additional Notes
 Should you want to use/modify/edit/reference it for commercial, corporate and company needs you must gain full permission of usage and discuss licensing from myself. Otherwise, Feel free to play around with the code to make it custom to your own requirements. 
   
 You are welcome to contact me should you have any general and technical questions.

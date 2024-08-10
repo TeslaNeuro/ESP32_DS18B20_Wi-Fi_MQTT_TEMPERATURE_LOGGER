@@ -10,7 +10,7 @@
 - Can be easily integrated to a "NODE-RED" dashboard.
 
 ## ESP32 Pins Used For Connecting DS18B20 Sensors
-Make sure to add a 4.7k ohm resistor between VCC and OneWire Connection to the DS18B20 Sensors ! (Link to Datasheet(https://cdn.sparkfun.com/datasheets/Sensors/Temp/DS18B20.pdf))
+Make sure to add a 4.7k ohm resistor between VCC and OneWire Connection to the DS18B20 Sensors ! (Link to Datasheet "https://cdn.sparkfun.com/datasheets/Sensors/Temp/DS18B20.pdf")
 - 3.3V == VCC
 - GND  == GND
 - (DQ) OneWire or Data == Pin 25 (Pin Set by Default on ESP32)

@@ -8,6 +8,7 @@
 - Allows simple publishing of combined sensor data to an MQTT Topic "ESP32/ds18b20/temperature".
 - Hardware Required: ESP32, 2.4-Ghz WiFi Network, 4.7k ohm resistor, DS18B20 Temperature Sensors, USB Power & Cable (You can use another power delivery method).
 - Can be easily integrated to a "NODE-RED" dashboard.
+- GPIO Viewer library added for testing/debugging purposes via local network.
 
 ## ESP32 Pins Used For Connecting DS18B20 Sensors
 Make sure to add a 4.7k ohm resistor between VCC and OneWire Connection to the DS18B20 Sensors ! 

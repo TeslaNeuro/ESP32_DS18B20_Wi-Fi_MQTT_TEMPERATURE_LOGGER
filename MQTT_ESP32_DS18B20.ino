@@ -144,7 +144,7 @@ void loop() {
   // Start the JSON-like message
   combinedSensorData = "{ \"SensorData\": [";
 
-  // Itterate through each sensor and turn the readings into JSON format
+  // Iterate through each sensor and turn the readings into JSON format
   for (int i=0; i<=(numberOfDevices - 1); i++){
     float temp=sensors.getTempCByIndex(i);
 

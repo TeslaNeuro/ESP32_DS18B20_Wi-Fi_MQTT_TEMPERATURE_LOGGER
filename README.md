@@ -1,7 +1,7 @@
 # ESP32_DS18B20_Wi-Fi_MQTT_TEMPERATURE_LOGGER
 
 - A simple Wi-Fi based temperature logger for Steady-State or Dynamic thermal testing needs.
-- MQTT / Websocket Based Wi-Fi Communication Protocol Default is set to MQTT as it is most lightweight.
+- MQTT / Websocket Based Wi-Fi Communication Protocol Default is set to MQTT due to it's lightweight nature.
 - Can be used with multiple OneWire DS18B20 temperature sensors and are automatically detected through the OneWire Protocol.
 - Uses JSON Format for Serial Printing of temperature readings from OneWire DS18B20 sensors.
 - The code already sets the ADC resolution of temperature sensors to 12-bit highest available (+/- 0.125 degrees celsius).

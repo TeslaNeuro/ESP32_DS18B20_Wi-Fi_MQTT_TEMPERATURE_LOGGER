@@ -18,15 +18,3 @@ Link to Datasheet "https://cdn.sparkfun.com/datasheets/Sensors/Temp/DS18B20.pdf"
 - (DQ) OneWire or Data == Pin 25 (Pin Set by Default on ESP32)
 
 ![image](https://github.com/user-attachments/assets/f8ad2150-0c79-449b-992c-1d508d654830)
-
-## License
-
-This project includes firmware, software, hardware designs, and integration components and is licensed under the [Custom License Agreement](./LICENSE).
-
-- **Non-Commercial Use**: You may use, modify, and distribute this project for non-commercial purposes.
-- **Commercial Use**: To use this project for commercial purposes, please contact the author at [arshiakeshvariasl@gmail.com] to obtain full permission rights and discuss licensing terms.
-
-See the [LICENSE](./LICENSE) file for full licensing details.
-
-## Additional Notes  
-You are welcome to contact me should you have any general and technical questions.
